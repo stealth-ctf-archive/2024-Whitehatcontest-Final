@@ -25,7 +25,11 @@ solved수는 청소년분 기준, check는 디미고 소속 참가자 풀이 여
 - message (0 solved)
 
 [scenario]
-- scenario-1  (7 solved) ✅
-- scenario-2  (2 solved) ✅
-- scenario-3, scenario-4, scenario-5  (0 solved)
+- scenario-1 (7 solved) ✅
+- scenario-2 (2 solved) ✅
+- scenario-3 (0 solved)
+- scenario-4 (0 solved)
+- scenario-5 (0 solved)
 ```
+
+message문제는 파일 없음
